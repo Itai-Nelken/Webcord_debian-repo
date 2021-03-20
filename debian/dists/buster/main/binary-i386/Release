@@ -1,5 +1,5 @@
 Component: main
-Origin: spacingbat3/electron-discord-webapp repo
-Label: electron-discord-webapp apt repository
+Origin: unofficial debian repo for electron-discord-webapp
+Label: apt repository
 Architecture: i386
-Description: electron-discord-webapp unofficial debian package repo
+Description: Unofficial debian repo for SpacingBat3s electron-discord-webapp

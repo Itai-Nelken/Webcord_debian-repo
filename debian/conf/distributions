@@ -1,8 +1,8 @@
-Origin: spacingbat3/electron-discord-webapp repo
-Label: electron-discord-webapp apt repository
+Origin: unofficial debian repo for electron-discord-webapp
+Label: apt repository
 Codename: buster
-Architectures: armhf i386 arm64 amd64
+Architectures: armhf arm64 i386 amd64
 Components: main
-Description: electron-discord-webapp unofficial debian package repo
+Description: Unofficial debian repo for SpacingBat3s electron-discord-webapp
 SignWith: yes
 Pull: buster
