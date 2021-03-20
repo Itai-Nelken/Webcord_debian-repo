@@ -1,0 +1,46 @@
+Origin: spacingbat3/electron-discord-webapp repo
+Label: electron-discord-webapp apt repository
+Codename: buster
+Date: Sat, 20 Mar 2021 22:15:02 UTC
+Architectures: armhf i386 arm64 amd64
+Components: main
+Description: electron-discord-webapp unofficial debian package repo
+MD5Sum:
+ fbb00903cd84951dfb2b99e2e8fb6235 900 main/binary-armhf/Packages
+ 78800d6b90faaea683c3f60863c6b91e 554 main/binary-armhf/Packages.gz
+ 3ffebfef0f6499eb8526e57eb3afdd18 199 main/binary-armhf/Release
+ 33d638f27d2b34fdefff971607019d51 898 main/binary-i386/Packages
+ 6036b2c816076c4d1fb21c861c45ea80 555 main/binary-i386/Packages.gz
+ 8a8e36c34841224886371c5d40cec418 198 main/binary-i386/Release
+ 1ca32ce604505e1fdcd9d52d994ac35c 900 main/binary-arm64/Packages
+ 22cc3c02c77527bd5715a721c94cce1d 552 main/binary-arm64/Packages.gz
+ 784b1b3128baaef35d362a72158c90ea 199 main/binary-arm64/Release
+ b4d4f3e39370847ce38ef53739c11f55 900 main/binary-amd64/Packages
+ 81a43b0cb109078cbec4a4fd9bd5adb5 553 main/binary-amd64/Packages.gz
+ 702dffa2fa7006d3bed59c298384dad7 199 main/binary-amd64/Release
+SHA1:
+ 1c19357e195baa17eae33fe9d15ac4da2afff9d5 900 main/binary-armhf/Packages
+ f5a795dde8a51feb59aa4ea0649267c053285c9e 554 main/binary-armhf/Packages.gz
+ 7a6903abb53243d4e0d34a5ab7b0d56d41556b8f 199 main/binary-armhf/Release
+ df672bf26374ffd07314d155d810128d4b8a8d53 898 main/binary-i386/Packages
+ 538712678e5d3b31446c8cc04c5aacd1a8c6171a 555 main/binary-i386/Packages.gz
+ eb53e63495a2442ab59eeec70baac54a070505c5 198 main/binary-i386/Release
+ 573b71aaf6f8d217461ad7fd60524636b1e33799 900 main/binary-arm64/Packages
+ 1688d2a116d35a75b3c97324df02e30f4e2d53d1 552 main/binary-arm64/Packages.gz
+ d2b31b706545e27cc77ba9243dd457eea1266513 199 main/binary-arm64/Release
+ beff0c607ef2ba52d9927a8b0395274b6fb8a3e0 900 main/binary-amd64/Packages
+ 4e8f5abc504318c2ae41e5e7839e0380c6fedd5e 553 main/binary-amd64/Packages.gz
+ 9fee45fa49f352008f4a9874ada161b3cda3f149 199 main/binary-amd64/Release
+SHA256:
+ 099084132f3dae92ab45cb36d37459983e1979eb7c0d740826490e102afbec62 900 main/binary-armhf/Packages
+ 0ce5cbce89bc55fb6501a50504110818dae4f4809889c23ea56d12f5e31dd246 554 main/binary-armhf/Packages.gz
+ 1cfe99d27698cb53c71beeba0b31c382a3d26af234166f0e82cd1965c0c0829d 199 main/binary-armhf/Release
+ 5ceae8530ff85c0e7ae084d39b4a7ff06a03bdf4ca1ae7bb69b67d8498d536b3 898 main/binary-i386/Packages
+ 0266a21284e2c329a5041f145b480761aeb416feb347eada2dda212ad2d97220 555 main/binary-i386/Packages.gz
+ f85efd295023e82189e73314bdc00a41d6e0664a8ab2ea566e66eb4dc2a354ad 198 main/binary-i386/Release
+ a890ebe5f35d12ace096fad1b023438f03d62920480c0ec96da3d9b46938bd55 900 main/binary-arm64/Packages
+ aaa7852aa867c108c9d252a2dea5c389437fe7aab4d93bb88f2607cdb20c1639 552 main/binary-arm64/Packages.gz
+ 743872490a42bbcde99d538d347a300bee2da46e87c740144b30808486e65ee8 199 main/binary-arm64/Release
+ fca80a203c1ef0d72bc2f078f45f2ca299c3ed34cf1e22de5d99044bf7ff6a91 900 main/binary-amd64/Packages
+ 8f7cc5f1587dbdcf6ca178361092da64a6daf482e33e1d2ef4e8b08ab254d1f3 553 main/binary-amd64/Packages.gz
+ 38303b2d2bcd4bed2d538b3ba21cd20b4d6ab3af2ab154d1ae3570170c8b1327 199 main/binary-amd64/Release
