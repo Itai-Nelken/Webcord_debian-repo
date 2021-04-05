@@ -17,3 +17,22 @@ MD5sum: edaec92da59924eb08fb9a8563da29af
 Description: A Discord Web App made with the Electron API.
  A Discord Web App made with the Electron API.
 
+Package: webcord
+Version: 1.3.0
+Architecture: i386
+Depends: libgtk-3-0, libnotify4, libnss3, libxtst6, xdg-utils, libatspi2.0-0, libdrm2, libgbm1, libxcb-dri3-0, kde-cli-tools | kde-runtime | trash-cli | libglib2.0-bin | gvfs-bin
+Recommends: pulseaudio | libasound2
+Suggests: gir1.2-gnomekeyring-1.0, libgnome-keyring0, lsb-release
+Installed-Size: 174144
+Maintainer: SpacingBat3 <git@spacingbat3.anonaddy.com>
+Homepage: https://github.com/SpacingBat3/WebCord#readme
+Priority: optional
+Section: web
+Filename: pool/main/w/webcord/webcord_1.3.0_i386.deb
+Size: 58201756
+SHA256: f4836e0142a2fc34e86a77bb6054176450ebbbc5f29d5255fbcb383a38b5c3f3
+SHA1: a5eecda8261eb6d9d948236509be77be670c17ed
+MD5sum: 9de1de577cd50e7ff8fcce9e7203865b
+Description: A Discord Web App made with the Electron API.
+ A Discord Web App made with the Electron API.
+

@@ -1,8 +1,8 @@
 Origin: unofficial debian repo for electron-discord-webapp
 Label: apt repository
-Codename: buster focal groovy
+Codename: buster
 Architectures: armhf arm64 i386 amd64
 Components: main
 Description: Unofficial debian repo for SpacingBat3s electron-discord-webapp
 SignWith: yes
-Pull: buster focal groovy
+Pull: buster
