@@ -1,46 +1,46 @@
 Origin: unofficial debian repo for electron-discord-webapp
 Label: apt repository
 Codename: buster
-Date: Mon, 05 Apr 2021 14:46:42 UTC
+Date: Mon, 05 Apr 2021 15:37:11 UTC
 Architectures: armhf arm64 i386 amd64
 Components: main
 Description: Unofficial debian repo for SpacingBat3s electron-discord-webapp
 MD5Sum:
- 8c09d2f904f3e15ba6d26f6a69d444ce 1736 main/binary-armhf/Packages
- f75e38a48d6158872577c802afe68d57 706 main/binary-armhf/Packages.gz
+ 16aa5b7052703a5f32c8d85f3b305750 836 main/binary-armhf/Packages
+ 5be7a554b67040354829f2063ecef8de 549 main/binary-armhf/Packages.gz
  d4394ea69654e3223408b632cb396362 194 main/binary-armhf/Release
- 07047bfa7c7aeced6b9f50369d06c38d 1736 main/binary-arm64/Packages
- 5e01ecde01ed9b23100f6d5d0abb9f5b 707 main/binary-arm64/Packages.gz
+ 3a00f5cc008fd270339da7a99b56fe4e 836 main/binary-arm64/Packages
+ 32db82400f4afd1d209f81551be6da8d 550 main/binary-arm64/Packages.gz
  0be3ef0afb0f0bc7ff8b973f88d2855b 194 main/binary-arm64/Release
- 2989eef256b0e9e6f079f6616ac9b5c9 1732 main/binary-i386/Packages
- a60a278810c9de20d2b596696a82f728 709 main/binary-i386/Packages.gz
+ c01df0fa90eb4b53831c0b6d97b1793a 834 main/binary-i386/Packages
+ 626581c0dd343cdf97f95170ca9bcb8a 549 main/binary-i386/Packages.gz
  195ddfd3b14d0f04830c9ff1dc2d36c9 193 main/binary-i386/Release
- b1e816759ea0a25908fa1aa63b97509a 1736 main/binary-amd64/Packages
- b80f236805e65d8e41c834e0a66bb142 707 main/binary-amd64/Packages.gz
+ d4d6e2effc7ae12666cbcda78a243ca5 836 main/binary-amd64/Packages
+ a24637e9be2206a0337878e19a463aed 548 main/binary-amd64/Packages.gz
  f2eadb27cb81af8301f7e6e77bcd7114 194 main/binary-amd64/Release
 SHA1:
- 22bf33a76bba33292e4ecde7f28dd4e121452c3c 1736 main/binary-armhf/Packages
- dfc1bffe3a408f2d3d74f333f519f34151583fb5 706 main/binary-armhf/Packages.gz
+ 542add5e739073fd3d244333f50e37df824e48a3 836 main/binary-armhf/Packages
+ b310257cce30385271cd5c3e966cf88b07c87fe8 549 main/binary-armhf/Packages.gz
  6cf5cdbee1bfb2b9f6cb42cdf12a6e99aad51096 194 main/binary-armhf/Release
- 97b537db6ef1c1ee57f1e6177735c23efac47796 1736 main/binary-arm64/Packages
- d879fae2c423fbc4cff0ebb5257fa6b2b3a4e304 707 main/binary-arm64/Packages.gz
+ e81e7c96125c369a98a7f0e0b85123724107e83e 836 main/binary-arm64/Packages
+ 3c2609ea2f877155fb2cf183f246072ad19b9ce5 550 main/binary-arm64/Packages.gz
  9fe969740ba7805f932437ffcfea62bfadb2e7af 194 main/binary-arm64/Release
- da9c5c1679067fd95df425db2b599c24cf35ccf4 1732 main/binary-i386/Packages
- 874f155448dc3f37ebf35f90322714244a1a2248 709 main/binary-i386/Packages.gz
+ 362346f97f7c48ff6039058802b85e9f6bfb8687 834 main/binary-i386/Packages
+ 662ae8fe656247ca58e878878917cd99e2aa832f 549 main/binary-i386/Packages.gz
  73afb2ae06abf53d315d3c3b3e2ad40c87ece4c0 193 main/binary-i386/Release
- 83343d34f62f98a27d294c4ba6e17dd090aabf8a 1736 main/binary-amd64/Packages
- 034c394fe240cdc397b267818a6293fab6061863 707 main/binary-amd64/Packages.gz
+ c49b077d69859d3b734fff4146b6674a9176d347 836 main/binary-amd64/Packages
+ b06aa95002fc673c9df1d6e817308ce55a5c180e 548 main/binary-amd64/Packages.gz
  090ebe9c4443c4c7629f351d959f670484576ca7 194 main/binary-amd64/Release
 SHA256:
- b75c1cd370c9643a5a8dcd68ae721f67e82df6b9819e4801dd72241db70b626a 1736 main/binary-armhf/Packages
- b314e844a12391a2c88f37346ec3f32f703035afdfef9b61ec80a478396879eb 706 main/binary-armhf/Packages.gz
+ e6721243d36a6530d9c6ef2a17db2ebcbb5e355ee43fbfba1e0daffdac2dc3f9 836 main/binary-armhf/Packages
+ b763fff996b8f05dde884d4b24c0cbfedce79cc8f69c90c6396edcf926e8923f 549 main/binary-armhf/Packages.gz
  74ce50f09b78332665c637266f4cbfca5349f39a941a08379f40528501a84c58 194 main/binary-armhf/Release
- 08ad7cbf0cd30412b27cc5c63d9a9e0cfa044712b437a922109d5699189b074e 1736 main/binary-arm64/Packages
- 2b11d943ab9ac35e7894429030e120af5161831705a8d0864a76f8b49601b128 707 main/binary-arm64/Packages.gz
+ ac056031bc9ba0aa0e866e6c00be0aebe1e0055b9108beb60085a886ea03d7c9 836 main/binary-arm64/Packages
+ ebf233a7b81f5abc045a92b5743f9140a98495860b17d293f911148bce6807ba 550 main/binary-arm64/Packages.gz
  2e20bcd742b3b142cde2115c49ccadf181f184f20c0c3fa11202f4f572a609a0 194 main/binary-arm64/Release
- da906d838a7b03c9a7f8b1ffa5f865d769684579acd022cb1ffef3f4d508db8d 1732 main/binary-i386/Packages
- 630b67ae7d0db20e591f8c4425c490379f6117be885d12e8c0dd8aaee0a2f5a5 709 main/binary-i386/Packages.gz
+ b50aed586376cf5c2998ecbecb1c66633f993fc06649402aab2e0f8e1847f47d 834 main/binary-i386/Packages
+ 34160bb1a2ffa42fe58386f2f215fb09352a98017d20e64f4693acaf98c9fddd 549 main/binary-i386/Packages.gz
  9110bc8e4fc6127490ad72199adf102b4044c502b72abe4cc1f16a5a7a440a0e 193 main/binary-i386/Release
- d3b4b2cf0896b17737ae7154d9a13ed0722caba196d32d37ec1515de466dac02 1736 main/binary-amd64/Packages
- 2098898d7a24826fb87d86cafab7ab23eb2619102a2828a14d9272b25cc0a586 707 main/binary-amd64/Packages.gz
+ e34e5869c20073da2c03549ca01d9a5503d49da1a743d98ec4fd3bd128b93b5c 836 main/binary-amd64/Packages
+ 02959ae3b544eb3fb2abe36b7021ea5594215ff702c1d66fe5350dbf2beaf13b 548 main/binary-amd64/Packages.gz
  b7b2f5ca038941c84598c1b9304f0afb7517a85977a97fdc36c6ebadf7528d36 194 main/binary-amd64/Release

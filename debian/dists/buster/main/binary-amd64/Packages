@@ -1,22 +1,3 @@
-Package: electron-discord-webapp
-Version: 1.2.1
-Architecture: amd64
-Depends: libgtk-3-0, libnotify4, libnss3, libxtst6, xdg-utils, libatspi2.0-0, libdrm2, libgbm1, libxcb-dri3-0, kde-cli-tools | kde-runtime | trash-cli | libglib2.0-bin | gvfs-bin
-Recommends: pulseaudio | libasound2
-Suggests: gir1.2-gnomekeyring-1.0, libgnome-keyring0, lsb-release
-Installed-Size: 190176
-Maintainer: SpacingBat3 <git@spacingbat3.anonaddy.com>
-Homepage: https://github.com/SpacingBat3/electron-discord-webapp#readme
-Priority: optional
-Section: web
-Filename: pool/main/e/electron-discord-webapp/electron-discord-webapp_1.2.1_amd64.deb
-Size: 59088302
-SHA256: 9a7f28e3e5bd2b25847ec6f185e93f309862f270f40ce5b2c48b00229b3cde9e
-SHA1: 3ac754d14e26bfc027d053a1d0f69a1cb18d6a33
-MD5sum: 7e294f93f7b78e7848f6ee2a1b3c036d
-Description: A Discord Web App made with the Electron API.
- A Discord Web App made with the Electron API.
-
 Package: webcord
 Version: 1.3.0
 Architecture: amd64
