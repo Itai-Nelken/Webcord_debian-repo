@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en"></html>
+<html>
+ <head>
+  <title>WebCord (electron-discord-webapp) debian repo</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+  /*code*/
+  .code {
+    font-family: "Lucida Console", "Courier New", monospace;
+    background-color: #f4f6f9;
+    font-size: 13px;
+    opacity: .9;
+    width: auto;
+    text-align: center;
+    padding: 5px 10px;
+    border-radius: 5px;
+    color: black;
+    line-height: 1.5em;
+    box-shadow: 3px 3px 3px 0px rgba(0, 0, 0, 0.2), 0 3px 15px 0 rgba(0, 0, 0, 0.19);
+  }
+  /*body*/
+  .body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 1;
+    line-height: 1.6;
+    background-color: rgba(5, 91, 219, 0.5);
+  }
+  .yellow {
+    color: #f5c842;
+   }
+  p.yellothick:hover {
+  font-weight: 900;
+  color: #f5c842;
+  }
+  </style>
+ </head>
+ <body class="body">
+  
+  <h1>Unofficial apt repo for <a href="https://github.com/SpacingBat3/electron-discord-webapp">WebCord (previously electron-discord-webapp)</a> by <a href="https://github.com/SpacingBat3/">SpacingBat3</a></h1>
+  <h4>To add this repo to your system, run:</h4>
+  
+  <kbd><dd><span class="code">wget -qO- https://raw.githubusercontent.com/Itai-Nelken/electron-discord-webapp_debian-repo/main/add-repo.sh | sudo bash</span></dd></kbd>
+  <dl>
+   <p>Alternatively download <a href="https://github.com/Itai-Nelken/electron-discord-webapp_debian-repo/blob/main/discord-webapp.list" class="yellow-thick">THIS FILE</a><br>and move it to <span class="code">/etc/apt/sources.list.d/</span>:</p>
+   <p>then run this command to add the key:<br><span class="code">wget -qO- https://raw.githubusercontent.com/Itai-Nelken/electron-discord-webapp_debian-repo/main/KEY.gpg | sudo apt-key add -</span></p>  
+   <p>Remember to run <span class="code">sudo apt update</span> after doing that.</p>
+  </dl>
+  <p><h4>Now you can install electron-discord-webapp by running <span class="code">sudo apt install electron-discord-webapp</span>.
+  
+  <!--
+  <h3>All packages:</h3>
+  <a href="https://itai-nelken.github.io/file-viewer.html"><b>my-repo/</b></a>
+  -->
+ 
+ </body>
+</html>
