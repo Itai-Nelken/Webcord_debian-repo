@@ -1,0 +1,11 @@
+#Repo Name
+WebCord
+
+#Repo URL
+http://download.tuxfamily.org/webcordapt/debian/
+
+#Enable Repo Message
+true
+
+#Repo Message
+Thank you for adding the unofficial apt repo for WebCord
